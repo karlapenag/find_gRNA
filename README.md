@@ -1,2 +1,2 @@
-# gRNA
-Find potential gRNA for CRISPR
+# Find gRNAs
+Find potential gRNAs for CRISPR
